@@ -1,0 +1,76 @@
+.Menu{
+    color: white;
+}
+.account{
+    color:white ;
+}
+.key{
+    color: white;
+}
+.Акція{
+ font-size: 250%;
+ font-weight:900;
+ position:relative;
+ left: 43%;
+ top:20px;
+   }
+.carousel-item{
+    height: 43%;
+    width: 41%;
+    left: 29%;
+   top:20px;
+}
+.carousel-item img{
+    height: 43%;
+    width: 41%;
+}
+.carousel-control-prev{
+    left: 24%;
+    top:10%;
+}
+.carousel-control-next{
+    left: 60%;
+    top:10%;
+}
+.example-img{
+    width: 100%;
+}
+.Популярні{
+    font-size: 200%;
+    font-weight:900;
+    position:relative;
+    left: 89%;
+   top:70px;
+
+}
+.New{
+    font-size: 200%;
+    font-weight:900;
+    position:relative;
+    left: 235%;
+    top: 10px; 
+}
+.row{
+    border: 10px;
+    max-width: 2050px;
+    position: relative;
+    top: 15px;
+    left: 1%;
+
+}
+.Go{
+    border: 10px;
+    max-width: 1810px;
+    position: relative;
+    
+    left: 0.1%;
+}
+.center{
+    padding: 1px 250px;
+    border: 3px solid white;
+}
+.GamePie{
+    max-width: 50px;
+    max-height: 35px;
+ }
+ 

@@ -1,0 +1,40 @@
+.zas{
+justify-content: center;
+display:flex;
+}
+.sayt{
+    border: 10px  solid white;
+    padding:45px;
+    justify-content:center;
+    display: flex;
+    font-size: 65px;
+    font-style:normal;
+    font-weight:bolder;
+    color: black;
+}
+.опис{
+    border: 2px solid rgb(1, 90, 255)  ;
+    max-width: 1000px;
+    max-height: 1000px;
+    position: relative;
+    left: 23.5%;
+    font-size: 25px;
+    font-weight: bold;
+    box-shadow: 5px 5px 45px 10px rgb(1, 90, 255);
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.sayt2{
+    border: 10px  solid white;
+    padding:45px;
+    justify-content:center;
+    display: flex;
+    font-size: 50px;
+    font-style:normal;
+    font-weight:bolder;
+    color: black;
+}
+.Круг{
+   color: rgb(255, 123, 0);
+}
